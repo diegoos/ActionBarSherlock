@@ -1,6 +1,6 @@
 # :rotating_light: WARNING
 
-**This repository is DEPRECATED and not maintaned anymore.
+**This repository is DEPRECATED and not maintaned anymore.**
 
 --- 
 
